@@ -204,7 +204,7 @@ main{
 }
 
 #people_also_ask_box h2{
-   display-block;
+   display: block;
    border-bottom: 1px solid rgb(219, 209, 209);
    padding: 15px;
 }
